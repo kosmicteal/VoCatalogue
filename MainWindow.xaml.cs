@@ -597,6 +597,7 @@ namespace VoCatalogue
             try { System.Diagnostics.Process.Start(ProductData.GetList()[found].Link); }
             catch (Exception)
             {
+                //TEST
                 MessageBox.Show("The installer file (.exe) can't be found!\nCheck your VocaList settings just in case.", "Σ(゜ロ゜;)", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
 
