@@ -72,9 +72,9 @@ namespace VoCatalogue
             new VoiceBank(){Reference="VY2", Profile="img/profile/v2/vy2.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             //VOCALOID3
             new VoiceBank(){Reference="VOCALOID3 editor", Profile="img/profile/v3/editor.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VOCALOID3 Cubase", Profile="img/profile/v3/editor.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VOCALOID3 Cubase NEO", Profile="img/profile/v3/editor.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VocaListener [V3]", Profile="img/profile/v3/editor.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VOCALOID3 Cubase", Profile="img/profile/v3/editor_cubase.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VOCALOID3 Cubase NEO", Profile="img/profile/v3/editor_cubase_neo.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VocaListener [V3]", Profile="img/profile/v3/vocalistener.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="VY1V3", Profile="img/profile/v3/vy1.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="Mew", Profile="img/profile/v3/mew.jpg", Website="https://www.vocaloid.com/en/products/show/v3l_mew_en", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="GUMI [V3 Adult]", Profile="img/profile/v3/gumi_adult.jpg", Website="https://www.ssw.co.jp/products/vocal3/megpoid/products/adult/index.html", Category=CategoryType.VOCALOID},
@@ -125,8 +125,8 @@ namespace VoCatalogue
             new VoiceBank(){Reference="乐正绫 [V3]", Profile="img/profile/v3/ling.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             //VOCALOID4
             new VoiceBank(){Reference="VOCALOID4 editor", Profile="img/profile/v4/editor.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VOCALOID4 Cubase", Profile="img/profile/v3/editor.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VocaListener [V4]", Profile="img/profile/v3/editor.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VOCALOID4 Cubase", Profile="img/profile/v3/editor_cubase.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VocaListener [V4]", Profile="img/profile/v3/vocalistener.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="VY1V4", Profile="img/profile/v4/vy1.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="CYBER DIVA", Profile="img/profile/v4/cyberdiva.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="結月ゆかり [V4 Jun]", Profile="img/profile/v4/yukari_jun.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},

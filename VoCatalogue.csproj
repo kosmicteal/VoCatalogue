@@ -343,5 +343,23 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\profile\v3\anokanon.jpg" />
+    <Resource Include="img\profile\v3\anonkanon_alt.jpg" />
+    <Resource Include="img\profile\v3\editor.jpg" />
+    <Resource Include="img\profile\v3\flower.jpg" />
+    <Resource Include="img\profile\v3\galaco_neo.jpg" />
+    <Resource Include="img\profile\v3\galaco_prize.jpg" />
+    <Resource Include="img\profile\v3\lapis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\profile\v3\merli.jpg" />
+    <Resource Include="img\profile\v3\mew.jpg" />
+    <Resource Include="img\profile\v3\rion.jpg" />
+    <Resource Include="img\profile\v3\vy1.jpg" />
+    <Resource Include="img\profile\v3\vy2.jpg" />
+    <Resource Include="img\profile\v3\xinhua.jpg" />
+    <Resource Include="img\profile\v3\zola.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
