@@ -88,7 +88,7 @@ namespace VoCatalogue
             new VoiceBank(){Reference="結月ゆかり [V3]", Profile="img/profile/v3/yuzuki.jpg", Website="https://www.ah-soft.com/vocaloid/yukari_v3/", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="Bruno", Profile="img/profile/v3/bruno_v3_std.jpg", Website="https://www.voctro-vocaloid.com/brunoclara", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="Clara", Profile="img/profile/v3/clara_v3_std.jpg", Website="https://www.voctro-vocaloid.com/brunoclara", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="IA [V3]", Profile="img/profile/v3/ia.jpg", Website="https://ia-aria.com/cat_software/vocaloid/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="IA [V3]", Profile="img/profile/v3/ia-aria.jpg", Website="https://ia-aria.com/cat_software/vocaloid/", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="GUMI [V3 Native]", Profile="img/profile/v3/gumi_native.jpg", Website="https://www.ssw.co.jp/products/vocal3/megpoid/products/native/", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="蒼姫ラピス", Profile="img/profile/v3/lapis.jpg", Website="https://www.vocaloid.com/en/products/show/v3l_aoki_lapis_en", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="Lily [V3]", Profile="img/profile/v3/lily.jpg", Website="http://www.ssw.co.jp/products/vocal3/lily/index.html", Category=CategoryType.VOCALOID},
