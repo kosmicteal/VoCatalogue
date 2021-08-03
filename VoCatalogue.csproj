@@ -159,6 +159,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="img\profile\v3\ia-aria_cubase.jpg" />
     <Resource Include="img\v1_kaito.png" />
     <Resource Include="img\v1_lola.png" />
     <Resource Include="img\v1_meiko.png" />
@@ -404,13 +405,7 @@
     <Resource Include="img\profile\v3\bruno_debut.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="img\profile\v3\bruno_redesign.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
     <Resource Include="img\profile\v3\bruno_v3_std.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\bruno_v3_std_chibi.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="img\profile\v3\chika.jpg">
@@ -419,13 +414,7 @@
     <Resource Include="img\profile\v3\clara_debut.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="img\profile\v3\clara_redesign.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
     <Resource Include="img\profile\v3\clara_v3_std.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\clara_v3_std_chibi.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="img\profile\v3\cul.jpg">
@@ -468,25 +457,7 @@
     <Resource Include="img\profile\v3\ia-aria.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="img\profile\v3\ia-aria_birth.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\ia-aria_color.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\ia-aria_cubase.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\ia-aria_racing.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\ia-aria_vision.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
     <Resource Include="img\profile\v3\ia_rocks.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\ia_rocks_guitar.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="img\profile\v3\kaito.jpg">
@@ -520,9 +491,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="img\profile\v3\miku_english.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="img\profile\v3\miku_look_i_am_on_an_app.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="img\profile\v3\nana_eng.jpg">
