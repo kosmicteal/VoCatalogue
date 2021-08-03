@@ -120,7 +120,7 @@ namespace VoCatalogue
             new VoiceBank(){Reference="galaco [V3 NEO]", Profile="img/profile/v3/galaco_neo.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="Rana [V3]", Profile="img/profile/v3/rana.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="ガチャッポイド [V3]", Profile="img/profile/v3/gachapoid.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="Chika", Profile="img/profile/v3/gachapoid.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="Chika", Profile="img/profile/v3/chika.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="心華 [V3]", Profile="img/profile/v3/xinhua.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="乐正绫 [V3]", Profile="img/profile/v3/ling.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             //VOCALOID4
