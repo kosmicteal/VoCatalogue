@@ -10,6 +10,7 @@ So, what is this thing? It's a small app that allows you to save your TTS softwa
 
 After a while having this code in here and due to several projects starting to take more of the "free time" cake I have in my brain, I have decided to release it as it is right now. Everyone's free to fork and upgrade this mess of a software that I tried to do, just remember to at least not delete the credits. Even if it was a mess, it took me a good while to do.
 
+Last thing, this software handles everything locally, nothing is sent online so please, be sure to save your activation codes safely aside from this app (aka do not throw all codes into the bin once you added them here).
 # How to install it
 Just decompress the file into your system. If you see any error about redistributables or it doesn't fully load, remember to install those from Windows themselves.
 
