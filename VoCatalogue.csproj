@@ -160,15 +160,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="img\profile\v3\ia-aria_cubase.jpg" />
-    <Resource Include="img\v1_kaito.png" />
-    <Resource Include="img\v1_lola.png" />
-    <Resource Include="img\v1_meiko.png" />
-    <Resource Include="img\v1_miriam.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="img\cs6_sasara.png" />
-    <Resource Include="img\v1_leon.png" />
-    <Resource Include="img\v2_sweetann.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
@@ -189,9 +180,6 @@
     <Resource Include="vocatalogue_logo_2.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="img\v3_maika.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="img\ico_wb.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
@@ -206,11 +194,6 @@
     <Folder Include="img\profile\sv\" />
     <Folder Include="img\profile\v4\" />
     <Folder Include="img\profile\v5\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="img\profile\v3\maika.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="img\profile\v1\kaito.jpg">

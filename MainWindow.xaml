@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:p="clr-namespace:VoCatalogue.Properties"
         mc:Ignorable="d"
-        Title="VoCatalogue - v1.0.0" WindowStyle="ThreeDBorderWindow" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" MinHeight="476" SizeToContent="WidthAndHeight">
+        Title="VoCatalogue - v1.0.1" WindowStyle="ThreeDBorderWindow" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" MinHeight="476" SizeToContent="WidthAndHeight">
     <!-- PREMADE RESOURCES -->
     <Window.Resources>
         <!-- GRID BANKS -->
