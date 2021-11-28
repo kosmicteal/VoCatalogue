@@ -17,6 +17,9 @@
                 <StackPanel Grid.Column ="1" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="384" Height="172">
                     <!-- Put text in case image doesn't exist-->
                     <TextBlock x:Name="SafeproofName" Margin="20,0" Text="{Binding Reference}" FontWeight="Bold" FontSize="22" HorizontalAlignment="Left" Initialized="SafeproofName_Initialized" >
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="#FF3E3E3E" ShadowDepth="2" BlurRadius="0" Opacity="0.5"/>
+                        </TextBlock.Effect>
                     </TextBlock>
                     <!-- Links, install and check button-->
                     <TextBlock Width="30" Height="30" Margin="0,0,2,0" HorizontalAlignment="Right" VerticalAlignment="Top"><Hyperlink x:Name="imghyper" TextDecorations="None" NavigateUri="{Binding Website}" ToolTip="Voicebank website" RequestNavigate="GeneralRequestNavigate"><InlineUIContainer>

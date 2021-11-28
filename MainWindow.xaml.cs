@@ -523,10 +523,10 @@ namespace VoCatalogue
         private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
 
-            //Grab Synth item that is linked to the generated button
+            //Grab generated item
             Border parent2 = (Border)(((FrameworkElement)((Border)((CheckBox)sender).Parent).Parent).Parent);
 
-            //find object
+            //Find object linked to the generated item
             string n = ((VoiceBank)parent2.DataContext).Reference;
             int found = ProductData.GetList().FindIndex(x => x.Reference == n);
 
@@ -542,10 +542,10 @@ namespace VoCatalogue
         private void CheckBox_Unchecked(object sender, RoutedEventArgs e)
         {
 
-            //Grab Synth item that is linked to the generated button
+            //Grab generated item
             Border parent2 = (Border)(((FrameworkElement)((Border)((CheckBox)sender).Parent).Parent).Parent);
 
-            //find object
+            //Find object linked to the generated item
             string n = ((VoiceBank)parent2.DataContext).Reference;
             int found = ProductData.GetList().FindIndex(x => x.Reference == n);
 
@@ -561,6 +561,7 @@ namespace VoCatalogue
         private void Border_Initialized(object sender, EventArgs e)
         {
 
+            //Find object linked to the generated item
             string n = ((VoiceBank)((Border)sender).DataContext).Reference;
             int found = ProductData.GetList().FindIndex(x => x.Reference == n);
 
@@ -584,10 +585,10 @@ namespace VoCatalogue
         /// </summary>
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //Grab Synth item that is linked to the generated button
+            //Grab generated item
             Border parent2 = (Border)(((FrameworkElement)((Button)sender).Parent).Parent);
 
-            //find object
+            //Find object linked to the generated item
             string n = ((VoiceBank)parent2.DataContext).Reference;
             int found = ProductData.GetList().FindIndex(x => x.Reference == n);
 
