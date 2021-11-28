@@ -74,7 +74,7 @@ namespace VoCatalogue
             new VoiceBank(){Reference="VOCALOID3 editor", Profile="img/profile/v3/editor.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="VOCALOID3 Cubase", Profile="img/profile/v3/editor_cubase.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="VOCALOID3 Cubase NEO", Profile="img/profile/v3/editor_cubase_neo.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VocaListener [V3]", Profile="img/profile/v3/vocalistener.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VocaListener [V3]", Profile="", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="VY1V3", Profile="img/profile/v3/vy1.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="Mew", Profile="img/profile/v3/mew.jpg", Website="https://www.vocaloid.com/en/products/show/v3l_mew_en", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="GUMI [V3 Adult]", Profile="img/profile/v3/gumi_adult.jpg", Website="https://www.ssw.co.jp/products/vocal3/megpoid/products/adult/index.html", Category=CategoryType.VOCALOID},
@@ -99,30 +99,30 @@ namespace VoCatalogue
             new VoiceBank(){Reference="VY2V3", Profile="img/profile/v3/vy2.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="MAYU", Profile="img/profile/v3/mayu.jpg", Website="http://mayusan.jp/", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="Avanna", Profile="img/profile/v3/avanna.jpg", Website="https://zero-g.co.uk/collections/vocaloid/products/avanna-vocaloid-3", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="KAITO [V3]", Profile="img/profile/v3/kaito.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="GUMI [V3 English]", Profile="img/profile/v3/gumi_english.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="ZOLA Project", Profile="img/profile/v3/zola.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="言和 [V3]", Profile="img/profile/v3/yanhe.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="KAITO [V3]", Profile="img/profile/v3/kaito.jpg", Website="https://ec.crypton.co.jp/pages/prod/virtualsinger/kaitov3", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="GUMI [V3 English]", Profile="img/profile/v3/gumi_english.jpg", Website="http://www.ssw.co.jp/products/vocal3/megpoid/products/english/index.html", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="ZOLA Project", Profile="img/profile/v3/zola.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="言和 [V3]", Profile="img/profile/v3/yanhe.jpg", Website="http://thstars.com/vsinger/", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="初音ミク [V3 English]", Profile="img/profile/v3/miku_english.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="YOHIOloid", Profile="img/profile/v3/yohioloid.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="初音ミク [V3]", Profile="img/profile/v3/miku.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="初音ミク [V3]", Profile="img/profile/v3/miku.jpg", Website="https://ec.crypton.co.jp/pages/prod/virtualsinger/mikuv3_bundle", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="MAIKA", Profile="img/profile/v3/maika.jpg", Website="https://www.voctro-vocaloid.com/maika", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="メルリ", Profile="img/profile/v3/merli.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="マクネナナ [V3 JPN]", Profile="img/profile/v3/nana_jpn.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="マクネナナ [V3 ENG]", Profile="img/profile/v3/nana_eng.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="MEIKO [V3]", Profile="img/profile/v3/meiko.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="kokone", Profile="img/profile/v3/kokone.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="anon & kanon", Profile="img/profile/v3/anokanon.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="v flower", Profile="img/profile/v3/flower.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="東北ずん子 [V3]", Profile="img/profile/v3/zunko.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="IA [V3 ROCKS]", Profile="img/profile/v3/ia_rocks.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="galaco [V3 Prize]", Profile="img/profile/v3/galaco_prize.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="galaco [V3 NEO]", Profile="img/profile/v3/galaco_neo.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="Rana [V3]", Profile="img/profile/v3/rana.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="ガチャッポイド [V3]", Profile="img/profile/v3/gachapoid.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="Chika", Profile="img/profile/v3/chika.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="心華 [V3]", Profile="img/profile/v3/xinhua.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="乐正绫 [V3]", Profile="img/profile/v3/ling.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="メルリ", Profile="img/profile/v3/merli.jpg", Website="https://www.vocaloid.com/products/show/v3l_merli", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="マクネナナ [V3 JPN]", Profile="img/profile/v3/nana_jpn.jpg", Website="https://www.ah-soft.com/vocaloid/macnenana/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="マクネナナ [V3 ENG]", Profile="img/profile/v3/nana_eng.jpg", Website="https://www.ah-soft.com/vocaloid/macnenana/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="MEIKO [V3]", Profile="img/profile/v3/meiko.jpg", Website="https://ec.crypton.co.jp/pages/prod/virtualsinger/meikov3", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="kokone", Profile="img/profile/v3/kokone.jpg", Website="https://www.ssw.co.jp/products/vocal3/kokone/index.html", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="anon & kanon", Profile="img/profile/v3/anokanon.jpg", Website="https://www.vocaloid.com/products/show/v3l_anonkanon", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="v flower", Profile="img/profile/v3/flower.jpg", Website="http://www.v-flower.jp/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="東北ずん子 [V3]", Profile="img/profile/v3/zunko.jpg", Website="https://www.ah-soft.com/vocaloid/zunko/index.html", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="IA [V3 ROCKS]", Profile="img/profile/v3/ia_rocks.jpg", Website="https://ia-aria.com/cat_software/vocaloid/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="galaco [V3 Prize]", Profile="img/profile/v3/galaco_prize.jpg", Website="http://www.vocaloid.com/galaco/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="galaco [V3 NEO]", Profile="img/profile/v3/galaco_neo.jpg", Website="http://www.vocaloid.com/galaco/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="Rana [V3]", Profile="img/profile/v3/rana.jpg", Website="https://www.vocaloid.com/products/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="ガチャッポイド [V3]", Profile="img/profile/v3/gachapoid.jpg", Website="https://www.ssw.co.jp/products/vocal3/gachapoid/index.html", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="Chika", Profile="img/profile/v3/chika.jpg", Website="https://www.ssw.co.jp/products/vocal3/chika/index.html", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="心華 [V3]", Profile="img/profile/v3/xinhua.jpg", Website="https://www.vocaloid.com/products/", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="乐正绫 [V3]", Profile="img/profile/v3/ling.jpg", Website="http://thstars.com/vsinger/", Category=CategoryType.VOCALOID},
             //VOCALOID4
             new VoiceBank(){Reference="VOCALOID4 editor", Profile="img/profile/v4/editor.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="VOCALOID4 Cubase", Profile="img/profile/v3/editor_cubase.jpg", Website="http://www.vocaloid.com/products", Category=CategoryType.VOCALOID},
@@ -183,124 +183,124 @@ namespace VoCatalogue
             new VoiceBank(){Reference="徵羽摩柯", Profile="img/profile/v4/moke.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             new VoiceBank(){Reference="墨清弦", Profile="img/profile/v4/qingxian.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
             //VOCALOID5
-            new VoiceBank(){Reference="VOCALOID5 editor", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="Standard Vocals [V5]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="CYBER DIVA II", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="CYBER SONGMAN II", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VY1V5", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="VY2V5", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="桜乃そら [V5 Natural]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="桜乃そら [V5 Cool]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="鳴花ヒメ [V5]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
-            new VoiceBank(){Reference="鳴花ミコト [V5]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VOCALOID5 editor", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="Standard Vocals [V5]", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="CYBER DIVA II", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="CYBER SONGMAN II", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VY1V5", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="VY2V5", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="桜乃そら [V5 Natural]", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="桜乃そら [V5 Cool]", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="鳴花ヒメ [V5]", Profile="", Website="", Category=CategoryType.VOCALOID},
+            new VoiceBank(){Reference="鳴花ミコト [V5]", Profile="", Website="", Category=CategoryType.VOCALOID},
             //
             //  CEVIO
             //
             //Creative Studio 7
-            new VoiceBank(){Reference="さとうささら [CS7 Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="すずきつづみ [CS7]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="タカハシ [CS7]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="IA [CS7 Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="ONE [CS7 Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="さとうささら [CS7 Song]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="IA [CS7 ENGLISH C Song]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="赤咲 湊", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="緑咲 香澄", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="銀咲 大和", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="金咲 小春", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="白咲 優大", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="黄咲 愛里", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="さとうささら [CS7 Talk]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="すずきつづみ [CS7]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="タカハシ [CS7]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="IA [CS7 Talk]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="ONE [CS7 Talk]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="さとうささら [CS7 Song]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="IA [CS7 ENGLISH C Song]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="赤咲 湊", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="緑咲 香澄", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="銀咲 大和", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="金咲 小春", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="白咲 優大", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="黄咲 愛里", Profile="", Website="", Category=CategoryType.CeVIO},
             //CeVIO AI
-            new VoiceBank(){Reference="結月ゆかり [C-AI Rei]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="東北きりたん [C-AI]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="IA [C-AI Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="IA [C-AI Song]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="IA [C-AI Song English]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="ONE [C-AI Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="ONE [C-AI Song]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="小春六花 [C-AI]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="弦巻マキ [C-AI]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="可不 [C-AI]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
-            new VoiceBank(){Reference="flower [C-AI]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="結月ゆかり [C-AI Rei]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="東北きりたん [C-AI]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="IA [C-AI Talk]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="IA [C-AI Song]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="IA [C-AI Song English]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="ONE [C-AI Talk]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="ONE [C-AI Song]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="小春六花 [C-AI]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="弦巻マキ [C-AI]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="可不 [C-AI]", Profile="", Website="", Category=CategoryType.CeVIO},
+            new VoiceBank(){Reference="flower [C-AI]", Profile="", Website="", Category=CategoryType.CeVIO},
             //
             // SYNTHV
             //
             //R1
-            new VoiceBank(){Reference="Eleanor Forte [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},
-            new VoiceBank(){Reference="闇音レンリ [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},
-            new VoiceBank(){Reference="ゲンブ [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},     
-            new VoiceBank(){Reference="AiKO [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},      
-            new VoiceBank(){Reference="赤羽 [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},         
-            new VoiceBank(){Reference="诗岸 [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
-            new VoiceBank(){Reference="苍穹 [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
-            new VoiceBank(){Reference="海伊 [SV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="Eleanor Forte [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},
+            new VoiceBank(){Reference="闇音レンリ [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},
+            new VoiceBank(){Reference="ゲンブ [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},     
+            new VoiceBank(){Reference="AiKO [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},      
+            new VoiceBank(){Reference="赤羽 [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},         
+            new VoiceBank(){Reference="诗岸 [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="苍穹 [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="海伊 [SV]", Profile="", Website="", Category=CategoryType.SYNTHV},          
             //Synthesizer V Studio
-            new VoiceBank(){Reference="赤羽 [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},            
-            new VoiceBank(){Reference="诗岸 [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
-            new VoiceBank(){Reference="苍穹 [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},         
-            new VoiceBank(){Reference="海伊 [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},        
-            new VoiceBank(){Reference="ゲンブ [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},       
-            new VoiceBank(){Reference="AiKO [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
-            new VoiceBank(){Reference="Saki [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
-            new VoiceBank(){Reference="琴葉 茜・葵 [SVS]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
-            new VoiceBank(){Reference="牧心", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},           
-            new VoiceBank(){Reference="星尘Minus", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},            
-            new VoiceBank(){Reference="小春六花 [SVS Std]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},            
+            new VoiceBank(){Reference="赤羽 [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},            
+            new VoiceBank(){Reference="诗岸 [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="苍穹 [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},         
+            new VoiceBank(){Reference="海伊 [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},        
+            new VoiceBank(){Reference="ゲンブ [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},       
+            new VoiceBank(){Reference="AiKO [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="Saki [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="琴葉 茜・葵 [SVS]", Profile="", Website="", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="牧心", Profile="", Website="", Category=CategoryType.SYNTHV},           
+            new VoiceBank(){Reference="星尘Minus", Profile="", Website="", Category=CategoryType.SYNTHV},            
+            new VoiceBank(){Reference="小春六花 [SVS Std]", Profile="", Website="", Category=CategoryType.SYNTHV},            
             //Synthesizer V Studio AI
-            new VoiceBank(){Reference="Saki [AI]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},           
-            new VoiceBank(){Reference="小春六花 [AI]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.SYNTHV},          
+            new VoiceBank(){Reference="Saki [AI]", Profile="", Website="", Category=CategoryType.SYNTHV},           
+            new VoiceBank(){Reference="小春六花 [AI]", Profile="", Website="", Category=CategoryType.SYNTHV},          
             //
             // AI Talk
             //
             //VOICEROID
-            new VoiceBank(){Reference="月読ショウタ [VO]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="月読アイ [VO]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},          
+            new VoiceBank(){Reference="月読ショウタ [VO]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="月読アイ [VO]", Profile="", Website="", Category=CategoryType.AITALK},          
             //VOICEROID+
-            new VoiceBank(){Reference="吉田くん [VO+]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="弦巻マキ [VO+]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="結月ゆかり [VO+]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="東北ずん子 [VO+]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="琴葉 茜・葵 [VO+]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="吉田くん [VO+]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="弦巻マキ [VO+]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="結月ゆかり [VO+]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="東北ずん子 [VO+]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="琴葉 茜・葵 [VO+]", Profile="", Website="", Category=CategoryType.AITALK},
             //VOICEROID+ EX
-            new VoiceBank(){Reference="月読ショウタ [VO+EX]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="月読アイ [VO+EX]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="弦巻マキ [VO+EX]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="結月ゆかり [VO+EX]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="東北ずん子 [VO+EX]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="水奈瀬コウ", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="京町セイカ [VO+EX]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="東北きりたん [VO+EX]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},          
+            new VoiceBank(){Reference="月読ショウタ [VO+EX]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="月読アイ [VO+EX]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="弦巻マキ [VO+EX]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="結月ゆかり [VO+EX]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="東北ずん子 [VO+EX]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="水奈瀬コウ", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="京町セイカ [VO+EX]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="東北きりたん [VO+EX]", Profile="", Website="", Category=CategoryType.AITALK},          
             //VOICEROID2
-            new VoiceBank(){Reference="結月ゆかり [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="琴葉 茜・葵 [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="紲星あかり [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="桜乃そら [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="東北イタコ [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="ついなちゃん [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="伊織弓鶴 [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="音街ウナ [VO2]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="結月ゆかり [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="琴葉 茜・葵 [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="紲星あかり [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="桜乃そら [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="東北イタコ [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="ついなちゃん [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="伊織弓鶴 [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="音街ウナ [VO2]", Profile="", Website="", Category=CategoryType.AITALK},
             //AIVOICE
-            new VoiceBank(){Reference="琴葉 茜・葵 [AIV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="伊織弓鶴 [AIV]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="琴葉 茜・葵 [AIV]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="伊織弓鶴 [AIV]", Profile="", Website="", Category=CategoryType.AITALK},
             //Talk licensed software
-            new VoiceBank(){Reference="音街ウナ [Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="galaco [Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="鳴花ヒメ [Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="鳴花ミコト [Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="flower [Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
-            new VoiceBank(){Reference="GUMI [Talk]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="音街ウナ [Talk]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="galaco [Talk]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="鳴花ヒメ [Talk]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="鳴花ミコト [Talk]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="flower [Talk]", Profile="", Website="", Category=CategoryType.AITALK},
+            new VoiceBank(){Reference="GUMI [Talk]", Profile="", Website="", Category=CategoryType.AITALK},
             //
             // OTHERS
             //
-            new VoiceBank(){Reference="初音ミク [NT]", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="Aquestone", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="Aquestone 2", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="ALYS", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="Bones", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="Marie Ork", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="LEORA", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="Chipspeech", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
-            new VoiceBank(){Reference="UTAU Shareware", Profile="img/profile/v3/avanna.jpg", Website="https://powerfx.com/products/sweet-ann", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="初音ミク [NT]", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="Aquestone", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="Aquestone 2", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="ALYS", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="Bones", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="Marie Ork", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="LEORA", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="Chipspeech", Profile="", Website="", Category=CategoryType.OTHERS},
+            new VoiceBank(){Reference="UTAU Shareware", Profile="", Website="", Category=CategoryType.OTHERS},
             //Any new database added after the initial release of this software
 
         };
@@ -523,7 +523,7 @@ namespace VoCatalogue
         private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
 
-            //Debug.Write("Button checked!!\n");
+            //Grab Synth item that is linked to the generated button
             Border parent2 = (Border)(((FrameworkElement)((Border)((CheckBox)sender).Parent).Parent).Parent);
 
             //find object
@@ -533,7 +533,7 @@ namespace VoCatalogue
             parent2.Background.Opacity = 0.5;
             ProductData.GetList()[found].ActivationBool = true;
             ProductData.ExportJSON();
-            Debug.Write(ProductData.GetList()[found].Reference + " is now in a state of " + ProductData.GetList()[found].ActivationBool + "\n");
+            //Debug.Write(ProductData.GetList()[found].Reference + " is now in a state of " + ProductData.GetList()[found].ActivationBool + "\n");
         }
 
         /// <summary>
@@ -542,7 +542,7 @@ namespace VoCatalogue
         private void CheckBox_Unchecked(object sender, RoutedEventArgs e)
         {
 
-            //Debug.Write("Button checked!!\n");
+            //Grab Synth item that is linked to the generated button
             Border parent2 = (Border)(((FrameworkElement)((Border)((CheckBox)sender).Parent).Parent).Parent);
 
             //find object
@@ -584,7 +584,7 @@ namespace VoCatalogue
         /// </summary>
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //Debug.Write("Button checked!!\n");
+            //Grab Synth item that is linked to the generated button
             Border parent2 = (Border)(((FrameworkElement)((Button)sender).Parent).Parent);
 
             //find object
@@ -603,7 +603,18 @@ namespace VoCatalogue
 
         }
 
+        private void SafeproofName_Initialized(object sender, EventArgs e)
+        {
+            //Grab generated item
+            Border parent2 = (Border)(((FrameworkElement)((TextBlock)sender).Parent).Parent);
 
+            //Find object linked to the generated item
+            string n = ((VoiceBank)parent2.DataContext).Reference;
+            int found = ProductData.GetList().FindIndex(x => x.Reference == n);
+
+            string ProfilePic = ProductData.GetList()[found].Profile;
+            if (ProfilePic != "") ((TextBlock)sender).Opacity = 0;
+        }
     }
 
 

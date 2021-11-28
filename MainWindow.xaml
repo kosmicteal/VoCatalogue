@@ -15,10 +15,14 @@
                     <ImageBrush x:Name="ProfilePics" ImageSource="{Binding Profile}" Stretch="None"  />
                 </Border.Background>
                 <StackPanel Grid.Column ="1" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="384" Height="172">
+                    <!-- Put text in case image doesn't exist-->
+                    <TextBlock x:Name="SafeproofName" Margin="20,0" Text="{Binding Reference}" FontWeight="Bold" FontSize="22" HorizontalAlignment="Left" Initialized="SafeproofName_Initialized" >
+                    </TextBlock>
+                    <!-- Links, install and check button-->
                     <TextBlock Width="30" Height="30" Margin="0,0,2,0" HorizontalAlignment="Right" VerticalAlignment="Top"><Hyperlink x:Name="imghyper" TextDecorations="None" NavigateUri="{Binding Website}" ToolTip="Voicebank website" RequestNavigate="GeneralRequestNavigate"><InlineUIContainer>
                                 <Image x:Name="imglink" Source="img/ico_wb.png" Stretch="None"  />
                             </InlineUIContainer></Hyperlink></TextBlock>
-                    <Separator Height="33" Opacity="0" />
+                    <Separator Height="5" Opacity="0" />
                     <Button x:Name="InstallButton" HorizontalAlignment="Left" Width="135" BorderBrush="#00707070" Margin="0,10" MinHeight="50" MinWidth="125" VerticalAlignment="Bottom" Background="#FFDDDDDD" Click="Button_Click" RenderTransformOrigin="0.5,0.5">
                         <TextBlock Text="{x:Static p:Resources.install_button}" x:Name="InstallButtonText" RenderTransformOrigin="0.5,0.5" FontWeight="Bold">
                             <TextBlock.RenderTransform>
