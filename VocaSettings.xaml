@@ -109,7 +109,7 @@
                         <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Luxiay Kuragon" VerticalAlignment="Top" FontStyle="Italic" Margin="0,0,0,10" />
                         <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="All respective VOCALOID, CeVIO, SynthV," VerticalAlignment="Top" FontStyle="Italic" />
                         <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text=" AITalk and respective Wikia websites" VerticalAlignment="Top" FontStyle="Italic" Margin="0,0,0,10" />
-                        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Ran, KuroHaine &amp; RayTS" VerticalAlignment="Top" FontStyle="Italic" Margin="0,0,0,10" />
+                        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Ran, KuroHaine, Henia &amp; RayTS" VerticalAlignment="Top" FontStyle="Italic" Margin="0,0,0,10" />
                     </StackPanel>
                 </Grid>
             </TabItem>
