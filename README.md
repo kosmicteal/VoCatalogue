@@ -18,15 +18,15 @@ Just decompress the file into your system. If you see any error about redistribu
 Add the characters using the "Add person" button, then add your links to your files and the activation code there. You can also check the settings in case you wanna change some images for alternative ones; or see what I had planned to do for other engines.
 
 # FAQ
-* Why isn't (insert character here) in this list?
-Surely it isn't here because it's either not released or it's too recent. The latest one added is Rikka from SynthV.
+* Why isn't (insert character/engine here) in this list?
 
-* Why isn't (insert engine here) in this list?
-As for now, I just added the commercial TTS that require some sort of activation code or related, if more engines get released in the future with few voices, it'll be added in "Others", if there's enough banks available, I'll make it have its own group.
+Surely it isn't here because it's either not released or it's too recent. The latest one added is Rikka from SynthV. As for engines, I only added most of the commercial TTS that require some sort of activation code or related.
   
 * Why (insert character here) is such an ugly illustration? Why don't you use the one made by <insert person here> or an old version of it?
+  
 The illustrations/photos shown will always be the canonical ones shown in the latest physical release of the TTS voice. In case there's no physical, it will always be the latest digital release of that specific version.
   
 * What about UTAU? Why there's no images from some characters?
+  
 As I said, I have to prioritize getting cash due to the general *waves hands* happenings on the world. There were plans to add those but as for now, I need to focus on doing 2D and 3D commissions, as those give me money, and this project doesn't. I don't feel like doing a Patreon-like thingy to then make this YSimulator 2.0 with people paying for few-to-none updates.
 
