@@ -5,7 +5,7 @@
 # Special thanks and disclaimer
 Special thanks to LuxiayK for doing the images from V1 to V3 and his improvements towards this app and to Ran, Kurohaine, Henia and RayTS for their constant help towards my general life.
 
-**Also important note, VoCatalogue_data.ini has all your information. Keep that file safe and do not lose it or rewrite it with the template file included.**
+⚠⚠**Also important note, VoCatalogue_data.ini has all your information. Keep that file safe and do not lose it or rewrite it with the template file included.**⚠⚠
 
 # About this software
 So, what is this thing? It's a small app that allows you to save your TTS software activation codes and its installer locations. This is incredibly useful in case you have lots of products or you want to change computers and have a proper control of what you need or what you're missing.
