@@ -5,7 +5,7 @@
 # Special thanks and disclaimer
 Special thanks to LuxiayK for doing the images from V1 to V3 and his improvements towards this app and to Ran, Kurohaine, Henia and RayTS for their constant help towards my general life.
 
-**Disclaimer:
+***Disclaimer:***
 * VoCatalogue_data.ini has all your information. Keep that file safe and do not lose it or rewrite it with the template file included.
 * I do not take any liability for any of the forks done from this software nor if you lose your codes because you left them in here and threw the original copy. This is just a local-based library software to be used as a backup.
 
